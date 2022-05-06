@@ -5,3 +5,8 @@ def subtract(a, b):
   return a-b
 def multiply(a,b):
   return a*b
+
+def divide_free(a,b):
+  return a/b
+def get_Percent(a,b):
+  return (a/b)*100
